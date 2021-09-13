@@ -97,3 +97,5 @@ public class StreamsExample {
 
 // Max and min element from an array
 // https://www.geeksforgeeks.org/stream-max-method-java-examples/
+
+//https://howtodoinjava.com/java8/java-streams-by-examples/
